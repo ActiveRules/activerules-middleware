@@ -78,3 +78,6 @@ The *site* config file is a free form JSON object. It's properties will be merge
 ## Request object changes
  
 If a valid site is found the Express request object will have a *site* property added to it.
+
+## Sponsored By
+[UltriNet](http://www.ultri.net)
